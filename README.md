@@ -1,1 +1,4 @@
-# learning_resources
+# Learning resources
+
+
+Collection of learning resources.
